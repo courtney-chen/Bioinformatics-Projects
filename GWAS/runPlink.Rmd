@@ -1,0 +1,87 @@
+---
+title: "runPlink"
+author: "Chen, Zhibin"
+output: md_document
+---
+# Genome-Wide Association Studies
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(fig.path='Figs/')
+```
+
+# Method
+In this module, we study GWAS to identify associations between genetic variants and diseases or trairs. A popular GWAS analysis tool, PLINK is used. PLINK is used for analyzing ramdonly selected genotypes (approximately 80,000 autosomal SNPs) from the 89 Asian HapMap individuals. In this assignment, we use data management, summary statistics, popularion stratification and basic association analysis. 
+
+# Result
+## Summary statistics: missing rates
+```{bash}
+head miss_stat.lmiss
+#The data for per SNP, the number of missing individuals and the proportion of individuals missing.
+head miss_stat.imiss
+#Similar structure to the data above. This is the data for per SNP rates.
+```
+
+## Summary statistics: allele frequencies smilarirty analysis
+```{bash}
+head freq_stat.frq
+#The mirror allele frequency and allele codes for each SNP.
+head freq_stat.frq.strat
+#After the stratified analysis of the data above, this data frame shows each SNP is represented twice.
+```
+
+## Basic association analysis
+```{bash}
+#Basic association analysis is performed on the disease trait for all single SNPs
+sort --key=7 -nr as1.assoc | head
+#The sorted list of association statistics
+head as2.assoc.adjusted
+#A pre-sorted list of association results. 
+```
+
+## Genotypic and other association models
+```{bash}
+#Take rs2222162 as a SNP of interest for calculaitng the genotypic test.  
+head mod2.model
+#The data shows the genotype counts in affected and unaffected individuals.
+```
+## Stratification analysis
+```{bash}
+#Use whole genome data to cluster individuals into homogeneous groups.
+head str1.cluster1
+#The data of clustering in a format that is easy to read.
+```
+## Association analysis, accounting for clusters
+```{bash}
+#Perform the association test conditional on the matching.
+head aac1.cmh.adjusted
+#adjusted result of multiple-test corrected significance value.
+head aac2.cmh.adjusted
+#The disease SNP is genome-wide significant.
+head aac3.cmh.adjusted
+#This has the very similar results to the two-class solution derived from cluster analysis.
+```
+
+```{r pplot, eval=FALSE, echo=TRUE}
+m <- as.matrix(read.table("/home/chen.zhibi/BINF6309/module10-courtney-chen-1/ibd_view.mdist"))
+mds <- cmdscale(as.dist(1-m))
+k <- c( rep("green",45) , rep("blue",44) )
+pplot<-plot(mds,pch=20,col=k)
+pplot
+#A visulization of the substructure in the sample
+```
+
+## Quantitative trait association analysis
+```{bash}
+#analyze quantitative trait directly.
+head quant1.qassoc.adjusted 
+#After genome-wide correction, the disease variant is significant.
+head quant2.qassoc.adjusted
+```
+
+## Extracting a SNP of interest
+```{r , echo=TRUE}
+#extract SNPs as separate, smaller and manageable file.
+d <- read.table("rec_snp1.raw" , header=T)
+summary(glm(PHENOTYPE-1 ~ rs2222162_1, data=d, family="binomial"))
+```

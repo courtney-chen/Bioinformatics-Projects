@@ -1,0 +1,21 @@
+---
+author: Charles Roesel (Chuck)
+output:
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+    dev: 'svg'
+  md_document:
+    variant: gfm
+bibliography: bibliography.ris
+---
+
+## Overview
+
+In this module we identify the differential expression of genes. Two main steps are involved to achieve it -- retrieve the data of relative abundance of transcripts, then apply statistical models to examine the differential expression between treatment groups.
+
+In the first step, Salmon [@Patro] is used to estimate the relative abundance of transcripts. With the help of tximport [@Soneson], data can be imported for DESeq2 [@Love] to achieve the second step, running the statistical test.
+
+
+## References

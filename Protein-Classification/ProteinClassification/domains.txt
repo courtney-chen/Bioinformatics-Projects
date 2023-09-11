@@ -1,0 +1,1136 @@
+   2933 
+    125 IPR001680	WD40 repeat
+     75 IPR000742	EGF-like domain
+     53 IPR005455	Profilin
+     48 IPR000719	Protein kinase domain
+     38 IPR000859	CUB domain
+     35 IPR013783	Immunoglobulin-like fold
+     34 IPR002713	FF domain
+     30 IPR019734	Tetratricopeptide repeat
+     30 IPR002048	EF-hand domain
+     28 IPR027417	P-loop containing nucleoside triphosphate hydrolase
+     28 IPR015917	Peptidase C14A, caspase catalytic domain
+     28 IPR003961	Fibronectin type III
+     28 IPR001506	Peptidase M12A
+     28 IPR000998	MAM domain
+     27 IPR000436	Sushi/SCR/CCP domain
+     26 IPR036179	Immunoglobulin-like domain superfamily
+     26 IPR018108	Mitochondrial substrate/solute carrier
+     26 IPR003582	ShKT domain
+     25 IPR011009	Protein kinase-like domain superfamily
+     25 IPR002126	Cadherin-like
+     24 IPR007110	Immunoglobulin-like domain
+     24 IPR000276	G protein-coupled receptor, rhodopsin-like
+     23 IPR036517	FF domain superfamily
+     23 IPR035914	Spermadhesin, CUB domain superfamily
+     23 IPR000884	Thrombospondin type-1 (TSP1) repeat
+     22 IPR001623	DnaJ domain
+     22 IPR000242	PTP type protein phosphatase
+     21 IPR002401	Cytochrome P450, E-class, group I
+     21 IPR001881	EGF-like calcium-binding domain
+     21 IPR000668	Peptidase C1A, papain C-terminal
+     20 IPR005814	Aminotransferase class-III
+     20 IPR001202	WW domain
+     19 IPR036465	von Willebrand factor A-like domain superfamily
+     19 IPR001128	Cytochrome P450
+     19 IPR000504	RNA recognition motif domain
+     18 IPR020472	G-protein beta WD-40 repeat
+     18 IPR019775	WD40 repeat, conserved site
+     18 IPR003599	Immunoglobulin subtype
+     18 IPR002067	Mitochondrial carrier protein
+     18 IPR002035	von Willebrand factor, type A
+     18 IPR000163	Prohibitin
+     17 IPR003598	Immunoglobulin subtype 2
+     17 IPR001245	Serine-threonine/tyrosine-protein kinase, catalytic domain
+     16 IPR036383	Thrombospondin type-1 (TSP1) repeat superfamily
+     16 IPR015943	WD40/YVTN repeat-like-containing domain superfamily
+     16 IPR013083	Zinc finger, RING/FYVE/PHD-type
+     16 IPR011990	Tetratricopeptide-like helical domain superfamily
+     16 IPR001632	G-protein, beta subunit
+     15 IPR036322	WD40-repeat-containing domain superfamily
+     15 IPR008155	Amyloidogenic glycoprotein
+     15 IPR000008	C2 domain
+     14 IPR013087	Zinc finger C2H2-type
+     14 IPR001452	SH3 domain
+     13 IPR013320	Concanavalin A-like lectin/glucanase domain superfamily
+     13 IPR008979	Galactose-binding-like domain superfamily
+     13 IPR001841	Zinc finger, RING-type
+     12 IPR038081	CalX-like domain superfamily
+     12 IPR036249	Thioredoxin-like superfamily
+     12 IPR023395	Mitochondrial carrier domain superfamily
+     12 IPR016024	Armadillo-type fold
+     12 IPR002181	Fibrinogen, alpha/beta/gamma chain, C-terminal globular domain
+     12 IPR001254	Serine proteases, trypsin domain
+     12 IPR000152	EGF-type aspartate/asparagine hydroxylation site
+     11 IPR036396	Cytochrome P450 superfamily
+     11 IPR036188	FAD/NAD(P)-binding domain superfamily
+     11 IPR017441	Protein kinase, ATP binding site
+     11 IPR014720	Double-stranded RNA-binding domain
+     11 IPR013098	Immunoglobulin I-set
+     11 IPR002347	Short-chain dehydrogenase/reductase SDR
+     11 IPR002223	Pancreatic trypsin inhibitor Kunitz domain
+     11 IPR001611	Leucine-rich repeat
+     11 IPR001478	PDZ domain
+     10 IPR036034	PDZ superfamily
+     10 IPR017986	WD40-repeat-containing domain
+     10 IPR012677	Nucleotide-binding alpha-beta plait domain superfamily
+     10 IPR002167	Graves disease carrier protein
+     10 IPR001609	Myosin head, motor domain
+      9 IPR020818	GroES chaperonin family
+      9 IPR013763	Cyclin-like
+      9 IPR008271	Serine/threonine-protein kinase, active site
+      9 IPR005485	Ribosomal protein L5 eukaryotic/L18 archaeal
+      9 IPR004827	Basic-leucine zipper domain
+      9 IPR002219	Protein kinase C-like, phorbol ester/diacylglycerol-binding domain
+      9 IPR001766	Fork head domain
+      9 IPR001564	Nucleoside diphosphate kinase
+      9 IPR000711	ATPase, OSCP/delta subunit
+      9 IPR000010	Cystatin domain
+      8 IPR036852	Peptidase S8/S53 domain superfamily
+      8 IPR036388	Winged helix-like DNA-binding domain superfamily
+      8 IPR036259	MFS transporter superfamily
+      8 IPR036116	Fibronectin type III superfamily
+      8 IPR035979	RNA-binding domain superfamily
+      8 IPR029061	Thiamin diphosphate-binding fold
+      8 IPR029021	Protein-tyrosine phosphatase-like
+      8 IPR027477	Succinate dehydrogenase/fumarate reductase flavoprotein, catalytic domain superfamily
+      8 IPR026298	Blc2 family
+      8 IPR016135	Ubiquitin-conjugating enzyme/RWD-like
+      8 IPR013201	Cathepsin propeptide inhibitor domain (I29)
+      8 IPR011993	PH-like domain superfamily
+      8 IPR011989	Armadillo-like helical
+      8 IPR011603	2-oxoglutarate dehydrogenase E1 component
+      8 IPR005475	Transketolase-like, pyrimidine-binding domain
+      8 IPR002884	P domain
+      8 IPR001951	Histone H4
+      8 IPR001849	Pleckstrin homology domain
+      8 IPR001356	Homeobox domain
+      8 IPR001314	Peptidase S1A, chymotrypsin family
+      8 IPR001007	VWFC domain
+      8 IPR000850	Adenylate kinase/UMP-CMP kinase
+      8 IPR000832	GPCR, family 2, secretin-like
+      8 IPR000421	Coagulation factor 5/8 C-terminal domain
+      7 IPR043204	Basigin-like
+      7 IPR036291	NAD(P)-binding domain superfamily
+      7 IPR029071	Ubiquitin-like domain superfamily
+      7 IPR018097	EGF-like calcium-binding, conserved site
+      7 IPR013026	Tetratricopeptide repeat-containing domain
+      7 IPR008930	Terpenoid cyclases/protein prenyltransferase alpha-alpha toroid
+      7 IPR008160	Collagen triple helix repeat
+      7 IPR003644	Na-Ca exchanger/integrin-beta4
+      7 IPR003492	Batten's disease protein Cln3
+      7 IPR002157	Cobalamin (vitamin B12)-binding protein
+      7 IPR002130	Cyclophilin-type peptidyl-prolyl cis-trans isomerase domain
+      7 IPR002041	Ran GTPase
+      7 IPR001791	Laminin G domain
+      7 IPR001507	Zona pellucida domain
+      6 IPR038765	Papain-like cysteine peptidase superfamily
+      6 IPR036869	Chaperone J-domain superfamily
+      6 IPR036669	Amyloidogenic glycoprotein, copper-binding domain superfamily
+      6 IPR036612	K Homology domain, type 1 superfamily
+      6 IPR036597	Fido-like domain superfamily
+      6 IPR036454	Amyloidogenic glycoprotein, heparin-binding domain superfamily
+      6 IPR036176	E2 domain superfamily
+      6 IPR036140	Profilin superfamily
+      6 IPR035976	Sushi/SCR/CCP superfamily
+      6 IPR029158	Stimulator of interferon genes protein
+      6 IPR029030	Caspase-like domain superfamily
+      6 IPR027267	AH/BAR domain superfamily
+      6 IPR024329	Amyloidogenic glycoprotein, E2 domain
+      6 IPR024079	Metallopeptidase, catalytic domain superfamily
+      6 IPR020479	Homeobox domain, metazoa
+      6 IPR015919	Cadherin-like superfamily
+      6 IPR015341	Glycoside hydrolase family 38, central domain
+      6 IPR014729	Rossmann-like alpha/beta/alpha sandwich fold
+      6 IPR011992	EF-hand domain pair
+      6 IPR011641	Tyrosine-protein kinase ephrin type A/B receptor-like
+      6 IPR009146	Groucho/transducin-like enhancer
+      6 IPR008154	Amyloidogenic glycoprotein, extracellular
+      6 IPR003812	Fido domain
+      6 IPR003591	Leucine-rich repeat, typical subtype
+      6 IPR003307	W2 domain
+      6 IPR002398	Peptidase C14 family
+      6 IPR002350	Kazal domain
+      6 IPR002320	Threonine-tRNA ligase, class IIa
+      6 IPR002113	ADP/ATP carrier protein, eukaryotic type
+      6 IPR002108	Actin-depolymerising factor homology domain
+      6 IPR001806	Small GTPase
+      6 IPR001628	Zinc finger, nuclear hormone receptor-type
+      6 IPR001523	Paired domain
+      6 IPR001382	Glycoside hydrolase family 47
+      6 IPR001309	Peptidase C14,  p20 domain
+      6 IPR001054	Adenylyl cyclase class-3/4/guanylyl cyclase
+      6 IPR000889	Glutathione peroxidase
+      6 IPR000539	Frizzled/Smoothened, transmembrane domain
+      6 IPR000175	Sodium:neurotransmitter symporter
+      6 IPR000058	Zinc finger, AN1-type
+      5 IPR036915	Cyclin-like superfamily
+      5 IPR036390	Winged helix DNA-binding domain superfamily
+      5 IPR036020	WW domain superfamily
+      5 IPR035892	C2 domain superfamily
+      5 IPR033139	Peptidase family C14A, cysteine active site
+      5 IPR032675	Leucine-rich repeat domain superfamily
+      5 IPR029058	Alpha/Beta hydrolase fold
+      5 IPR029044	Nucleotide-diphospho-sugar transferases
+      5 IPR025661	Cysteine peptidase, asparagine active site
+      5 IPR025660	Cysteine peptidase, histidine active site
+      5 IPR024872	HEXIM
+      5 IPR019749	Band 4.1 domain
+      5 IPR018247	EF-Hand 1, calcium-binding site
+      5 IPR016021	MIF4G-like domain superfamily
+      5 IPR009030	Growth factor receptor cysteine-rich domain superfamily
+      5 IPR006575	RWD domain
+      5 IPR006186	Serine/threonine-specific protein phosphatase/bis(5-nucleosyl)-tetraphosphatase
+      5 IPR004000	Actin family
+      5 IPR002138	Peptidase C14, caspase non-catalytic subunit p10
+      5 IPR001848	Ribosomal protein S10
+      5 IPR001752	Kinesin motor domain
+      5 IPR001683	Phox homology
+      5 IPR001374	R3H domain
+      5 IPR001211	Phospholipase A2
+      5 IPR001148	Alpha carbonic anhydrase domain
+      5 IPR000814	TATA-box binding protein
+      5 IPR000569	HECT domain
+      5 IPR000315	B-box-type zinc finger
+      4 IPR042179	Multifunctional 2-oxoglutarate metabolism enzyme, C-terminal domain superfamily
+      4 IPR039417	Papain-like cysteine endopeptidase
+      4 IPR037099	Fumarate reductase/succinate dehydrogenase flavoprotein-like, C-terminal domain superfamily
+      4 IPR036880	Pancreatic trypsin inhibitor Kunitz domain superfamily
+      4 IPR036873	Rhodanese-like domain superfamily
+      4 IPR036871	PX domain superfamily
+      4 IPR036867	R3H domain superfamily
+      4 IPR036850	Nucleoside diphosphate kinase-like domain superfamily
+      4 IPR036834	Blc2-like superfamily
+      4 IPR036539	Cytochrome c oxidase, subunit VIIa superfamily
+      4 IPR036409	Class II aldolase/adducin N-terminal domain superfamily
+      4 IPR036398	Alpha carbonic anhydrase domain superfamily
+      4 IPR035896	AN1-like Zinc finger
+      4 IPR034907	Nucleoside diphosphate kinase-like domain
+      4 IPR034035	Astacin-like metallopeptidase domain
+      4 IPR029787	Nucleotide cyclase
+      4 IPR029034	Cystine-knot cytokine
+      4 IPR029006	ADF-H/Gelsolin-like domain superfamily
+      4 IPR028565	Mu homology domain
+      4 IPR024983	CHAT domain
+      4 IPR024130	DAP1/DAPL1
+      4 IPR020552	Inositol monophosphatase, lithium-sensitive
+      4 IPR020454	Diacylglycerol/phorbol-ester binding
+      4 IPR017904	ADF/Cofilin
+      4 IPR017452	GPCR, rhodopsin-like, 7TM
+      4 IPR016346	Guanine nucleotide-binding protein, beta subunit
+      4 IPR015939	Fumarate reductase/succinate dehydrogenase flavoprotein-like, C-terminal
+      4 IPR015424	Pyridoxal phosphate-dependent transferase
+      4 IPR015422	Pyridoxal phosphate-dependent transferase domain 1
+      4 IPR015421	Pyridoxal phosphate-dependent transferase, major domain
+      4 IPR013766	Thioredoxin domain
+      4 IPR013568	SEFIR domain
+      4 IPR011705	BTB/Kelch-associated
+      4 IPR011013	Galactose mutarotase-like domain superfamily
+      4 IPR010394	5-nucleotidase
+      4 IPR010164	Ornithine aminotransferase
+      4 IPR009072	Histone-fold
+      4 IPR008978	HSP20-like chaperone
+      4 IPR008937	Ras-like guanine nucleotide exchange factor
+      4 IPR008197	WAP-type 'four-disulfide core' domain
+      4 IPR007052	CS domain
+      4 IPR006553	Leucine-rich repeat, cysteine-containing subtype
+      4 IPR006026	Peptidase, metallopeptidase
+      4 IPR005819	Linker histone H1/H5
+      4 IPR005615	Glutathione synthase
+      4 IPR005225	Small GTP-binding protein domain
+      4 IPR004313	Acireductone dioxygenase ARD family
+      4 IPR004092	Mbt repeat
+      4 IPR003953	FAD-dependent oxidoreductase 2, FAD binding domain
+      4 IPR003084	Histone deacetylase
+      4 IPR002208	SecY/SEC61-alpha family
+      4 IPR002172	Low-density lipoprotein (LDL) receptor class A repeat
+      4 IPR002110	Ankyrin repeat
+      4 IPR001715	Calponin homology domain
+      4 IPR001494	Importin-beta, N-terminal domain
+      4 IPR001107	Band 7 domain
+      4 IPR001046	NRAMP family
+      4 IPR000760	Inositol monophosphatase-like
+      4 IPR000716	Thyroglobulin type-1
+      4 IPR000626	Ubiquitin-like domain
+      4 IPR000301	Tetraspanin
+      4 IPR000210	BTB/POZ domain
+      4 IPR000209	Peptidase S8/S53 domain
+      4 IPR000169	Cysteine peptidase, cysteine active site
+      3 IPR043504	Peptidase S1, PA clan, chymotrypsin-like fold
+      3 IPR043198	Cyclin/Cyclin-like subunit Ssn8
+      3 IPR041147	Glycosyl hydrolases family 38, C-terminal beta sandwich domain
+      3 IPR040198	Fido domain-containing protein
+      3 IPR039808	Cadherin
+      3 IPR038623	Stimulator of interferon genes protein, C-terminal domain superfamily
+      3 IPR037094	Glycoside hydrolase family 38, central domain superfamily
+      3 IPR036723	Alpha-catenin/vinculin-like superfamily
+      3 IPR036282	Glutathione S-transferase, C-terminal domain superfamily
+      3 IPR036134	Cryptochrome/DNA photolyase, FAD-binding domain-like superfamily
+      3 IPR036056	Fibrinogen-like, C-terminal
+      3 IPR036028	SH3-like domain superfamily
+      3 IPR035983	HECT, E3 ligase catalytic domain
+      3 IPR031717	Multifunctional 2-oxoglutarate metabolism enzyme, C-terminal
+      3 IPR031248	E3 ubiquitin-protein ligase RNF213
+      3 IPR028995	Glycoside hydrolase families 57/38, central domain superfamily
+      3 IPR028460	Tyramine beta-hydroxylase/Dopamine beta-hydroxylase
+      3 IPR027413	GroEL-like equatorial domain superfamily
+      3 IPR026847	Vacuolar protein sorting-associated protein 13
+      3 IPR023247	Dynein-f, intermediate chain IC97/Casc1-like
+      3 IPR020837	Fibrinogen, conserved site
+      3 IPR020635	Tyrosine-protein kinase, catalytic domain
+      3 IPR019744	Amyloidogenic glycoprotein,  copper-binding domain conserved site
+      3 IPR019543	Beta-amyloid precursor protein C-terminal
+      3 IPR018114	Serine proteases, trypsin family, histidine active site
+      3 IPR017998	Chaperone tailless complex polypeptide 1 (TCP-1)
+      3 IPR017981	GPCR, family 2-like
+      3 IPR017972	Cytochrome P450, conserved site
+      3 IPR017896	4Fe-4S ferredoxin-type, iron-sulphur binding domain
+      3 IPR015849	Amyloidogenic glycoprotein, heparin-binding
+      3 IPR014806	Ubiquitin-fold modifier-conjugating enzyme 1
+      3 IPR014710	RmlC-like jelly roll fold
+      3 IPR014038	Translation elongation factor EF1B, beta/delta subunit, guanine nucleotide exchange domain
+      3 IPR013780	Glycosyl hydrolase, all-beta
+      3 IPR011701	Major facilitator superfamily
+      3 IPR011682	Glycosyl hydrolase family 38, C-terminal
+      3 IPR011333	SKP1/BTB/POZ domain superfamily
+      3 IPR011178	Amyloidogenic glycoprotein, copper-binding
+      3 IPR010226	NADH-quinone oxidoreductase, chain I
+      3 IPR009100	Acyl-CoA dehydrogenase/oxidase, N-terminal and middle domain superfamily
+      3 IPR009057	Homeobox-like domain superfamily
+      3 IPR009003	Peptidase S1, PA clan
+      3 IPR008974	TRAF-like
+      3 IPR008936	Rho GTPase activation protein
+      3 IPR008628	Golgi phosphoprotein 3-like
+      3 IPR006593	Cytochrome b561/ferric reductase transmembrane
+      3 IPR006461	PLAC8 motif-containing protein
+      3 IPR006020	PTB/PI domain
+      3 IPR006015	Universal stress protein A family
+      3 IPR005821	Ion transport domain
+      3 IPR005797	Cytochrome b/b6, N-terminal
+      3 IPR005375	Ubiquitin-fold modifier 1
+      3 IPR005123	Oxoglutarate/iron-dependent dioxygenase
+      3 IPR005101	Cryptochrome/DNA photolyase, FAD-binding domain
+      3 IPR004547	Glucosamine-6-phosphate isomerase
+      3 IPR004367	Cyclin, C-terminal domain
+      3 IPR004328	BRO1 domain
+      3 IPR003959	ATPase, AAA-type, core
+      3 IPR003930	Potassium channel, calcium-activated, BK, beta subunit
+      3 IPR003886	NIDO domain
+      3 IPR003613	U box domain
+      3 IPR003325	TerD domain
+      3 IPR002715	Nascent polypeptide-associated complex NAC domain
+      3 IPR002579	Peptide methionine sulphoxide reductase MrsB
+      3 IPR002194	Chaperonin TCP-1, conserved site
+      3 IPR002004	Polyadenylate-binding protein/Hyperplastic disc protein
+      3 IPR001932	PPM-type phosphatase domain
+      3 IPR001895	Ras guanine-nucleotide exchange factors catalytic domain
+      3 IPR001810	F-box domain
+      3 IPR001723	Nuclear hormone receptor
+      3 IPR001607	Zinc finger, UBP-type
+      3 IPR001017	Dehydrogenase, E1 component
+      3 IPR000956	Stathmin family
+      3 IPR000885	Fibrillar collagen, C-terminal
+      3 IPR000697	WH1/EVH1 domain
+      3 IPR000644	CBS domain
+      3 IPR000630	Ribosomal protein S8
+      3 IPR000591	DEP domain
+      3 IPR000519	P-type trefoil domain
+      3 IPR000408	Regulator of chromosome condensation, RCC1
+      3 IPR000299	FERM domain
+      3 IPR000198	Rho GTPase-activating protein domain
+      3 IPR000197	Zinc finger, TAZ-type
+      3 IPR000159	Ras-associating (RA) domain
+      3 IPR000095	CRIB domain
+      2 IPR043472	Macro domain-like
+      2 IPR042099	AMP-dependent synthetase-like superfamily
+      2 IPR042097	Aminopeptidase N-like , N-terminal
+      2 IPR041679	DNA2/NAM7 helicase-like, C-terminal
+      2 IPR041677	DNA2/NAM7 helicase, helicase domain
+      2 IPR041555	Macroglobulin domain MG3
+      2 IPR040386	Transcriptional repressor p66
+      2 IPR039659	Transcription elongation factor SPT5
+      2 IPR039465	Interleukin-17 receptor-like
+      2 IPR039373	Glutamate carboxypeptidase 2-like
+      2 IPR039297	Cytochrome c oxidase subunit VII
+      2 IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain
+      2 IPR037188	Ribosome maturation protein Sdo1/SBDS, central domain superfamily
+      2 IPR037069	Acyl-CoA dehydrogenase/oxidase, N-terminal domain superfamily
+      2 IPR036961	Kinesin motor domain superfamily
+      2 IPR036872	CH domain superfamily
+      2 IPR036860	SH2 domain superfamily
+      2 IPR036857	Thyroglobulin type-1 superfamily
+      2 IPR036838	Ribosomal protein S10 domain superfamily
+      2 IPR036812	NADP-dependent oxidoreductase domain superfamily
+      2 IPR036811	Ubiquinol-cytochrome C reductase hinge domain superfamily
+      2 IPR036802	ATP:guanido phosphotransferase, N-terminal domain superfamily
+      2 IPR036770	Ankyrin repeat-containing domain superfamily
+      2 IPR036757	Transferrin receptor-like, dimerisation domain superfamily
+      2 IPR036621	Anticodon-binding domain superfamily
+      2 IPR036610	PEBP-like superfamily
+      2 IPR036543	Guanylate-binding protein, C-terminal domain superfamily
+      2 IPR036464	Rubisco LSMT, substrate-binding domain superfamily
+      2 IPR036457	PPM-type phosphatase domain superfamily
+      2 IPR036444	Phospholipase A2 domain superfamily
+      2 IPR036427	Bromodomain-like superfamily
+      2 IPR036423	Superoxide dismutase-like, copper/zinc binding domain superfamily
+      2 IPR036397	Ribonuclease H superfamily
+      2 IPR036389	Ribonuclease III, endonuclease domain superfamily
+      2 IPR036356	Endoplasmic reticulum resident protein 29, C-terminal domain superfamily
+      2 IPR036236	Zinc finger C2H2 superfamily
+      2 IPR036168	AP-2 complex subunit mu, C-terminal superfamily
+      2 IPR036055	LDL receptor-like superfamily
+      2 IPR036026	Seven-hairpin glycosidases
+      2 IPR036025	tRNA-splicing ligase RtcB-like superfamily
+      2 IPR036013	Band 7/SPFH domain superfamily
+      2 IPR035965	PAS domain superfamily
+      2 IPR035902	Nucleoside phosphorylase/phosphoribosyltransferase catalytic domain superfamily
+      2 IPR035899	Dbl homology (DH) domain superfamily
+      2 IPR035898	TAZ domain superfamily
+      2 IPR035810	Phosphatidylethanolamine-binding protein, eukaryotic
+      2 IPR035500	Nuclear hormone receptor-like domain superfamily
+      2 IPR033952	Stimulator of interferon genes protein, C-terminal
+      2 IPR033640	Fatty acyl-CoA reductase, C-terminal
+      2 IPR033116	Serine proteases, trypsin family, serine active site
+      2 IPR033010	The WD repeat Cdc20/Fizzy family
+      2 IPR032727	Flagellar C1a complex subunit C1a-32
+      2 IPR030659	SecY conserved site
+      2 IPR030379	Septin-type guanine nucleotide-binding (G) domain
+      2 IPR030224	Sla2 family
+      2 IPR029774	Centriole, cilia and spindle-associated protein
+      2 IPR029651	Ectopic P granules protein 5
+      2 IPR029309	Calcium-responsive transcription factor
+      2 IPR029057	Phosphoribosyltransferase-like
+      2 IPR029033	Histidine phosphatase superfamily
+      2 IPR029000	Cyclophilin-like domain superfamily
+      2 IPR028422	GREB1
+      2 IPR028108	Protein of unknown function DUF4505
+      2 IPR027963	Meiosis-specific coiled-coil domain-containing protein MEIOC
+      2 IPR027817	Costars domain
+      2 IPR027640	Kinesin-like protein
+      2 IPR027496	1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase, eukaryotes
+      2 IPR027486	Ribosomal protein S10 domain
+      2 IPR027409	GroEL-like apical domain superfamily
+      2 IPR027244	Vacuolar membrane-associated protein Iml1
+      2 IPR027059	Coatomer delta subunit
+      2 IPR026983	Dynein heavy chain
+      2 IPR026919	Adhesion G-protein coupled receptor V1
+      2 IPR026750	Protein N-terminal asparagine amidohydrolase
+      2 IPR026541	MRG domain
+      2 IPR026157	Leucine zipper transcription factor-like protein 1
+      2 IPR026082	ABC transporter A
+      2 IPR026015	F1F0 ATP synthase OSCP/delta subunit, N-terminal domain superfamily
+      2 IPR025110	AMP-binding enzyme, C-terminal domain
+      2 IPR024862	Transient receptor potential cation channel subfamily V
+      2 IPR024548	Copper type II ascorbate-dependent monooxygenase, C-terminal
+      2 IPR023796	Serpin domain
+      2 IPR023574	Ribosomal protein L4 domain superfamily
+      2 IPR023393	START-like domain superfamily
+      2 IPR023201	SecY domain superfamily
+      2 IPR023005	Nucleoside diphosphate kinase, active site
+      2 IPR022413	ATP:guanido phosphotransferase, N-terminal
+      2 IPR021850	Symplekin/Pta1
+      2 IPR021629	Mediator complex, subunit Med23
+      2 IPR021190	Peptidase M10A
+      2 IPR021149	Oligosaccharyl transferase complex, subunit OST3/OST6
+      2 IPR021133	HEAT, type 2
+      2 IPR021109	Aspartic peptidase domain superfamily
+      2 IPR020904	Short-chain dehydrogenase/reductase, conserved site
+      2 IPR020901	Proteinase inhibitor I2, Kunitz, conserved site
+      2 IPR020894	Cadherin conserved site
+      2 IPR020726	Apoptosis regulator, Bcl-2, BH2 motif, conserved site
+      2 IPR020683	Ankyrin repeat-containing domain
+      2 IPR020568	Ribosomal protein S5 domain 2-type fold
+      2 IPR019787	Zinc finger, PHD-finger
+      2 IPR019748	FERM central domain
+      2 IPR019559	Cullin protein, neddylation domain
+      2 IPR019394	Testis-specific protein TEX28/transmembrane and coiled-coil domains protein
+      2 IPR019381	Phosphofurin acidic cluster sorting protein 1
+      2 IPR019366	Clusterin-associated protein-1
+      2 IPR019357	Short coiled-coil protein
+      2 IPR018979	FERM, N-terminal
+      2 IPR018940	Elongation factor 1 beta central acidic region, eukaryote
+      2 IPR018797	FAM98
+      2 IPR018614	Keratinocyte-associated protein 2
+      2 IPR017983	GPCR, family 2, secretin-like, conserved site
+      2 IPR017978	GPCR family 3, C-terminal
+      2 IPR017970	Homeobox, conserved site
+      2 IPR017946	PLC-like phosphodiesterase, TIM beta/alpha-barrel domain superfamily
+      2 IPR017937	Thioredoxin, conserved site
+      2 IPR017900	4Fe-4S ferredoxin, iron-sulphur binding, conserved site
+      2 IPR017850	Alkaline-phosphatase-like, core domain superfamily
+      2 IPR016641	Nascent polypeptide-associated complex subunit alpha
+      2 IPR016201	PSI domain
+      2 IPR016194	SPOC-like, C-terminal domain superfamily
+      2 IPR016158	Cullin homology domain
+      2 IPR016130	Protein-tyrosine phosphatase, active site
+      2 IPR016090	Phospholipase A2 domain
+      2 IPR016039	Thiolase-like
+      2 IPR015894	Guanylate-binding protein, N-terminal
+      2 IPR015819	Lipid transport protein, beta-sheet shell
+      2 IPR015727	Protein kinase C mu-related
+      2 IPR015433	Phosphatidylinositol kinase
+      2 IPR014887	HIF-1 alpha, transactivation domain, C-terminal
+      2 IPR014848	Reduced growth phenotype protein 1
+      2 IPR014721	Ribosomal protein S5 domain 2-type fold, subgroup
+      2 IPR014186	S-formylglutathione hydrolase
+      2 IPR014001	Helicase superfamily 1/2, ATP-binding domain
+      2 IPR013866	Sphingolipid delta4-desaturase, N-terminal
+      2 IPR013809	ENTH  domain
+      2 IPR013786	Acyl-CoA dehydrogenase/oxidase, N-terminal
+      2 IPR013785	Aldolase-type TIM barrel
+      2 IPR013761	Sterile alpha motif/pointed domain superfamily
+      2 IPR013256	Chromatin SPT2
+      2 IPR013177	Domain of unknown function DUF1713
+      2 IPR013025	Ribosomal protein L25/L23
+      2 IPR012716	T-complex protein 1, beta subunit
+      2 IPR012506	YhhN-like
+      2 IPR012341	Six-hairpin glycosidase-like superfamily
+      2 IPR012340	Nucleic acid-binding, OB-fold
+      2 IPR012337	Ribonuclease H-like superfamily
+      2 IPR012317	Poly(ADP-ribose) polymerase, catalytic domain
+      2 IPR012301	Malic enzyme, N-terminal domain
+      2 IPR012295	TBP domain superfamily
+      2 IPR011679	Endoplasmic reticulum resident protein 29, C-terminal
+      2 IPR011545	DEAD/DEAH box helicase domain
+      2 IPR011539	Rel homology domain (RHD), DNA-binding domain
+      2 IPR011524	SARAH domain
+      2 IPR011388	Sphingolipid delta4-desaturase
+      2 IPR011249	Metalloenzyme, LuxS/M16 peptidase-like
+      2 IPR011051	RmlC-like cupin domain superfamily
+      2 IPR011032	GroES-like superfamily
+      2 IPR011030	Lipovitellin-phosvitin complex, superhelical domain
+      2 IPR011029	Death-like domain superfamily
+      2 IPR010920	LSM domain superfamily
+      2 IPR010303	CREB-binding protein/p300, atypical RING domain
+      2 IPR009976	Exocyst complex component Sec10-like
+      2 IPR009091	Regulator of chromosome condensation 1/beta-lactamase-inhibitor protein II
+      2 IPR009060	UBA-like superfamily
+      2 IPR009011	Mannose-6-phosphate receptor binding domain superfamily
+      2 IPR009001	Translation elongation factor EF1A/initiation factor IF2gamma, C-terminal
+      2 IPR009000	Translation protein, beta-barrel domain superfamily
+      2 IPR008996	Cytokine IL1/FGF
+      2 IPR008993	Tissue inhibitor of metalloproteinases-like, OB-fold
+      2 IPR008977	PHM/PNGase F domain superfamily
+      2 IPR008971	HSP40/DnaJ peptide-binding
+      2 IPR008952	Tetraspanin, EC2 domain superfamily
+      2 IPR008942	ENTH/VHS
+      2 IPR008883	Ubiquitin E2 variant, N-terminal
+      2 IPR008805	RIB43A
+      2 IPR008603	Dynactin subunit 4
+      2 IPR008564	Golgi apparatus membrane protein TVP23-like
+      2 IPR008559	Calcium load-activated calcium channel
+      2 IPR008409	Pre-mRNA-splicing factor SPF27
+      2 IPR008380	HAD-superfamily hydrolase, subfamily IG, 5'-nucleotidase
+      2 IPR008339	Dishevelled family
+      2 IPR008145	Guanylate kinase/L-type calcium channel beta subunit
+      2 IPR008144	Guanylate kinase-like domain
+      2 IPR007914	Uncharacterised protein family UPF0193
+      2 IPR007783	Eukaryotic translation initiation factor 3 subunit D
+      2 IPR007763	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12
+      2 IPR007741	Ribosomal protein/NADH dehydrogenase domain
+      2 IPR007266	Endoplasmic reticulum oxidoreductin 1
+      2 IPR007258	Vps52
+      2 IPR007255	Conserved oligomeric Golgi complex subunit 8
+      2 IPR007144	Small-subunit processome, Utp11
+      2 IPR007122	Villin/Gelsolin
+      2 IPR007111	NACHT nucleoside triphosphatase
+      2 IPR007062	Protein phosphatase inhibitor 2 (IPP-2)
+      2 IPR007000	Phospholipase B-like
+      2 IPR006822	Coatomer, epsilon subunit
+      2 IPR006802	Radial spokehead-like protein
+      2 IPR006708	Pex19 protein
+      2 IPR006671	Cyclin, N-terminal
+      2 IPR006634	TRAM/LAG1/CLN8 homology domain
+      2 IPR006571	TLDc domain
+      2 IPR006214	Bax inhibitor 1-related
+      2 IPR006111	Archaeal RpoK/eukaryotic RPB6 RNA polymerase subunit
+      2 IPR006110	RNA polymerase, subunit omega/K/RPB6
+      2 IPR006096	Glutamate/phenylalanine/leucine/valine dehydrogenase, C-terminal
+      2 IPR006095	Glutamate/phenylalanine/leucine/valine dehydrogenase
+      2 IPR006089	Acyl-CoA dehydrogenase, conserved site
+      2 IPR006050	DNA photolyase, N-terminal
+      2 IPR006034	Asparaginase/glutaminase-like
+      2 IPR005818	Linker histone H1/H5, domain H15
+      2 IPR005788	Disulphide isomerase
+      2 IPR005522	Inositol polyphosphate kinase
+      2 IPR005373	Uncharacterised protein family UPF0183
+      2 IPR005024	Snf7 family
+      2 IPR005018	DOMON domain
+      2 IPR005011	SNU66/SART1 family
+      2 IPR004342	EXS, C-terminal
+      2 IPR004226	Tubulin binding cofactor A
+      2 IPR004160	Translation elongation factor EFTu/EF1A, C-terminal
+      2 IPR004154	Anticodon-binding
+      2 IPR004153	CXCXC repeat
+      2 IPR004148	BAR domain
+      2 IPR004045	Glutathione S-transferase, N-terminal
+      2 IPR003595	Protein-tyrosine phosphatase, catalytic
+      2 IPR003578	Small GTPase Rho
+      2 IPR003191	Guanylate-binding protein/Atlastin, C-terminal
+      2 IPR003172	MD-2-related lipid-recognition domain
+      2 IPR002913	START domain
+      2 IPR002809	Integral membrane protein EMC3/TMCO1-like
+      2 IPR002666	Reduced folate carrier
+      2 IPR002553	Clathrin/coatomer adaptor, adaptin-like, N-terminal
+      2 IPR002547	tRNA-binding domain
+      2 IPR002475	Bcl2-like
+      2 IPR002423	Chaperonin Cpn60/TCP-1 family
+      2 IPR002420	Phosphatidylinositol 3-kinase, C2 domain
+      2 IPR002300	Aminoacyl-tRNA synthetase, class Ia
+      2 IPR002220	DapA-like
+      2 IPR002123	Phospholipid/glycerol acyltransferase
+      2 IPR002083	MATH/TRAF domain
+      2 IPR002077	Voltage-dependent calcium channel, alpha-1 subunit
+      2 IPR002049	Laminin EGF domain
+      2 IPR002017	Spectrin repeat
+      2 IPR001936	Ras GTPase-activating domain
+      2 IPR001930	Peptidase M1, alanine aminopeptidase/leukotriene A4 hydrolase
+      2 IPR001891	Malic oxidoreductase
+      2 IPR001863	Glypican
+      2 IPR001820	Protease inhibitor I35 (TIMP)
+      2 IPR001763	Rhodanese-like domain
+      2 IPR001747	Lipid transport protein, N-terminal
+      2 IPR001660	Sterile alpha motif domain
+      2 IPR001619	Sec1-like protein
+      2 IPR001610	PAC motif
+      2 IPR001605	Pleckstrin homology domain, spectrin-type
+      2 IPR001347	Sugar isomerase (SIS)
+      2 IPR001293	Zinc finger, TRAF-type
+      2 IPR001263	Phosphoinositide 3-kinase, accessory (PIK) domain
+      2 IPR001233	RNA-splicing ligase, RtcB
+      2 IPR001208	MCM domain
+      2 IPR001206	Diacylglycerol kinase, catalytic domain
+      2 IPR001163	LSM domain, eukaryotic/archaea-type
+      2 IPR000999	Ribonuclease III domain
+      2 IPR000980	SH2 domain
+      2 IPR000971	Globin
+      2 IPR000945	Dopamine beta-hydroxylase-like
+      2 IPR000873	AMP-dependent synthetase/ligase
+      2 IPR000857	MyTH4 domain
+      2 IPR000705	Galactokinase
+      2 IPR000648	Oxysterol-binding protein
+      2 IPR000640	Elongation factor EFG, domain V-like
+      2 IPR000536	Nuclear hormone receptor, ligand-binding domain
+      2 IPR000488	Death domain
+      2 IPR000387	Tyrosine specific protein phosphatases domain
+      2 IPR000219	Dbl homology (DH) domain
+      2 IPR000109	Proton-dependent oligopeptide transporter family
+      2 IPR000082	SEA domain
+      2 IPR000014	PAS domain
+      1 IPR044034	Nascent polypeptide-associated complex subunit alpha-like, UBA domain
+      1 IPR043988	CCZ1/INTU, second Longin domain
+      1 IPR043926	ABC transporter family G domain
+      1 IPR043565	PAX family
+      1 IPR043555	Sushi repeat-containing protein SRPX-like
+      1 IPR043541	Synaptotagmin-14/14L/16
+      1 IPR043502	DNA/RNA polymerase superfamily
+      1 IPR043384	Reticulophagy receptor 1/3
+      1 IPR043211	TNF receptor-associated factor TRAF
+      1 IPR043162	Dedicator of cytokinesis, C-terminal, lobe C
+      1 IPR043129	ATPase, nucleotide binding domain
+      1 IPR043127	Sec1-like, domain 3a
+      1 IPR043041	Phospholipase B-like, domain 2
+      1 IPR043016	IFT81, N-terminal domain superfamily
+      1 IPR042990	StAR-related lipid transfer protein 9
+      1 IPR042846	BTB/POZ domain-containing protein 19
+      1 IPR042634	Homeobox protein MOX-1/MOX-2
+      1 IPR042618	Dynein regulatory complex protein 9
+      1 IPR042236	Phosphoinositide 3-kinase, accessory (PIK) domain superfamily
+      1 IPR042231	Choline/Carnitine o-acyltransferase, domain 2
+      1 IPR042185	Serpin superfamily, domain 2
+      1 IPR042178	Serpin superfamily, domain 1
+      1 IPR042098	Taurine dioxygenase TauD-like superfamily
+      1 IPR041728	GPAT/DHAPAT, acyltransferase domain
+      1 IPR041681	Pleckstrin homology domain 9
+      1 IPR041637	Caprin-1 dimerization domain
+      1 IPR041569	AAA ATPase, AAA+ lid domain
+      1 IPR041562	MCM, AAA-lid domain
+      1 IPR041476	TRAF3-interacting protein 1, C-terminal domain
+      1 IPR041373	Reverse transcriptase, RNase H-like domain
+      1 IPR041174	Krr1, KH1 domain
+      1 IPR041146	IFT81, calponin homology domain
+      1 IPR040930	AF-9, ANC1 homology domain
+      1 IPR040546	Rege-1, UBA-like domain
+      1 IPR040379	WD repeat-containing protein 19/dyf-2
+      1 IPR040213	GIR2-like
+      1 IPR040177	Zinc transporter 9
+      1 IPR040168	Not2/Not3/Not5
+      1 IPR040122	Importin beta family
+      1 IPR040055	28S ribosomal protein S10, mitochondrial
+      1 IPR040049	28S ribosomal protein S25, mitochondrial
+      1 IPR040024	Protein phosphatase 1 regulatory subunit 21
+      1 IPR039979	Pre-mRNA-splicing factor 18
+      1 IPR039948	Elongin-C
+      1 IPR039918	Serine/threonine-protein phosphatase 4 regulatory subunit 4
+      1 IPR039912	Pre-rRNA-processing protein PNO1-like
+      1 IPR039867	Protein furry/Tao3/Mor2
+      1 IPR039801	Epidermal growth factor receptor kinase substrate 8-like
+      1 IPR039794	Glucosidase II beta subunit-like
+      1 IPR039785	Deubiquitinating enzyme MINDY-3/4
+      1 IPR039774	Transcriptional regulatory protein Sin3-like
+      1 IPR039757	Eukaryotic translation initiation factor 2D
+      1 IPR039727	SERRATE/Ars2
+      1 IPR039726	Pre-mRNA-processing factor Prp40
+      1 IPR039707	Macrophage-expressed gene 1 protein
+      1 IPR039670	Sterol transport protein NPC2-like
+      1 IPR039587	TMEM248/TMEM219 domain
+      1 IPR039551	Choline/carnitine acyltransferase domain
+      1 IPR039493	TMEM248/TMEM219
+      1 IPR039361	Cyclin
+      1 IPR039360	Ras GTPase-activating protein
+      1 IPR039253	Aprataxin and PNK-like factor
+      1 IPR039250	CREBL2/REPTOR-BP
+      1 IPR039181	EIG121-like
+      1 IPR039165	CREB3 regulatory factor
+      1 IPR039156	UPF0183/Protein broad-minded
+      1 IPR039151	Protein inturned
+      1 IPR039150	Transcription elongation factor, mitochondrial
+      1 IPR039133	E3 ubiquitin-protein ligase RNF25
+      1 IPR039100	Ribosome maturation protein Sdo1/SBDS-like
+      1 IPR039030	Calmodulin
+      1 IPR039016	Reversion-inducing cysteine-rich protein with Kazal motifs
+      1 IPR038775	Testis-expressed protein 49
+      1 IPR038737	Splicing factor 3B subunit 1-like
+      1 IPR038716	Ribosomal protein P1/P2, N-terminal domain
+      1 IPR038547	CBP/p300, atypical RING domain superfamily
+      1 IPR038499	BRO1 domain superfamily
+      1 IPR038492	GBBH-like, N-terminal domain superfamily
+      1 IPR038348	SLED domain superfamily
+      1 IPR038322	Pex19, C-terminal domain superfamily
+      1 IPR038286	Inositol polyphosphate kinase superfamily
+      1 IPR038227	PCGF Ub-like fold discriminator superfamily
+      1 IPR038217	MRG, C-terminal domain superfamily
+      1 IPR038187	NAC A/B domain superfamily
+      1 IPR038185	MyTH4 domain superfamily
+      1 IPR038095	Costars domain superfamily
+      1 IPR037969	Transcriptional regulatory protein Sin3a
+      1 IPR037916	SNX29, PX domain
+      1 IPR037898	NudC family
+      1 IPR037769	Abr/Bcr
+      1 IPR037746	Protein Dok-7
+      1 IPR037626	Nucleoporin Nup37
+      1 IPR037571	Mannan-binding lectin-associated serine peptidase 2
+      1 IPR037518	MPN domain
+      1 IPR037438	Talin-1/2, rod-segment
+      1 IPR037366	BOULE/DAZ family
+      1 IPR037352	Polycomb protein EED
+      1 IPR037272	Sodium:neurotransmitter symporter superfamily
+      1 IPR037239	Oxysterol-binding protein superfamily
+      1 IPR037192	ERO1-like superfamily
+      1 IPR037171	NagB/RpiA transferase-like
+      1 IPR037152	L-asparaginase, N-terminal domain superfamily
+      1 IPR037151	Alpha-ketoglutarate-dependent dioxygenase AlkB-like superfamily
+      1 IPR037138	Histone deacetylase domain superfamily
+      1 IPR037124	GroES chaperonin superfamily
+      1 IPR037073	Nuclear receptor coactivator, CREB-bp-like, interlocking domain superfamily
+      1 IPR037067	Coatomer, gamma subunit, appendage domain superfamily
+      1 IPR037062	Malic enzyme, N-terminal domain superfamily
+      1 IPR037059	Rel homology domain (RHD), DNA-binding domain superfamily
+      1 IPR037033	DNA-directed RNA polymerase, subunit 2, hybrid-binding domain superfamily
+      1 IPR037013	Glutathione synthase, substrate-binding domain superfamily
+      1 IPR036964	Ras guanine-nucleotide exchange factor catalytic domain superfamily
+      1 IPR036939	Copper type II, ascorbate-dependent monooxygenase, N-terminal domain superfamily
+      1 IPR036936	CRIB domain superfamily
+      1 IPR036607	Glucosidase 2 subunit beta-like
+      1 IPR036529	Coactivator CBP, KIX domain superfamily
+      1 IPR036514	SGNH hydrolase superfamily
+      1 IPR036438	Insulin-like superfamily
+      1 IPR036412	HAD-like superfamily
+      1 IPR036410	Heat shock protein DnaJ, cysteine-rich domain superfamily
+      1 IPR036317	Cullin homology domain superfamily
+      1 IPR036250	Acyl-CoA dehydrogenase-like, C-terminal
+      1 IPR036219	Translation elongation factor eEF-1beta-like superfamily
+      1 IPR036186	Serpin superfamily
+      1 IPR036161	RPB6/omega subunit-like superfamily
+      1 IPR036155	Cryptochrome/photolyase, N-terminal domain superfamily
+      1 IPR036152	Asparaginase/glutaminase-like superfamily
+      1 IPR036126	Tubulin binding cofactor A superfamily
+      1 IPR036058	Kazal domain superfamily
+      1 IPR036053	PABC (PABP) domain
+      1 IPR036047	F-box-like domain superfamily
+      1 IPR036045	Sec1-like superfamily
+      1 IPR036002	Stathmin superfamily
+      1 IPR035987	Ribosomal protein S8 superfamily
+      1 IPR035963	FERM superfamily, second domain
+      1 IPR035824	Endophilin-A, SH3 domain
+      1 IPR035706	Dynein heavy chain, ATP-binding dynein motor region
+      1 IPR035655	116kDa U5 small nuclear ribonucleoprotein component, C-terminal
+      1 IPR035647	EF-G domain III/V-like
+      1 IPR035490	GlmS/FrlB, SIS domain 2
+      1 IPR035425	CENP-T/Histone H4, histone fold
+      1 IPR035299	26S Proteasome non-ATPase regulatory subunit 14
+      1 IPR034421	Probable RNA-binding protein 19, RNA recognition motif 6
+      1 IPR034308	Vacuolar protein sorting-assoociated protein 70
+      1 IPR034085	TOG domain
+      1 IPR034078	Transcription factor NFX1 family
+      1 IPR034016	Aminopeptidase N-type
+      1 IPR033923	p21 activated kinase binding domain
+      1 IPR033922	NAD(P) binding domain of glutamate dehydrogenase
+      1 IPR033916	Npc2 like, ML domain
+      1 IPR033720	Elongation factor Tu, domain 2
+      1 IPR033690	Adenylate kinase, conserved site
+      1 IPR033614	C-terminal RASSF family
+      1 IPR033468	Metaxin, glutathione S-transferase domain
+      1 IPR033446	Zinc finger domain-containing protein 24, zinc-binding domain
+      1 IPR033113	Phospholipase A2, histidine active site
+      1 IPR033111	APOBEC1 complementation factor
+      1 IPR033085	Protein ERGIC-53
+      1 IPR033082	Death-inducer obliterator 1
+      1 IPR033015	Cilia- and flagella-associated protein 52
+      1 IPR032922	Protein SON
+      1 IPR032914	Vam6/VPS39/TRAP1 family
+      1 IPR032913	Beclin-1
+      1 IPR032860	RNA demethylase ALKBH5
+      1 IPR032832	E3 ubiquitin-protein ligase synoviolin/Hrd1
+      1 IPR032678	tRNA synthetases class I, catalytic domain
+      1 IPR032503	FAD dependent oxidoreductase, central domain
+      1 IPR032466	Metal-dependent hydrolase
+      1 IPR032421	Protein O-mannosyl-transferase, C-terminal four TM domain
+      1 IPR032365	BCL-6 corepressor, PCGF1 binding domain
+      1 IPR032270	AMPK, C-terminal adenylate sensor domain
+      1 IPR032154	Coatomer subunit gamma, C-terminal
+      1 IPR032108	CLIP1, zinc knuckle
+      1 IPR032106	2-oxoglutarate dehydrogenase E1 component, N-terminal domain
+      1 IPR031981	Mitochondria-eating protein, C-terminal domain
+      1 IPR031963	Histone deacetylase complex subunit SAP130, C-terminal domain
+      1 IPR031941	Domain of unknown function DUF4773
+      1 IPR031727	Galactose mutarotase, N-terminal barrel
+      1 IPR031693	Sin3, C-terminal
+      1 IPR031675	Serine-threonine protein phosphatase, N-terminal
+      1 IPR031657	Replication protein A, OB domain
+      1 IPR031645	Vacuolar protein sorting-associated protein 13, C-terminal
+      1 IPR031476	Protein of unknown function DUF4686
+      1 IPR031327	Mini-chromosome maintenance protein
+      1 IPR031318	OPI10 family
+      1 IPR031312	Sodium/sulphate symporter, conserved site
+      1 IPR031226	Probable ubiquitin carboxyl-terminal hydrolase FAF-X
+      1 IPR031180	Glypican-4
+      1 IPR030739	Rap guanine nucleotide exchange factor 2
+      1 IPR030555	Huntingtin-interacting protein 1-related protein
+      1 IPR030544	Clathrin interactor 1
+      1 IPR030516	Protein SFI1 homologue
+      1 IPR030503	Nuclear factor NF-kappa-B, p105 subunit
+      1 IPR030492	Rel homology domain, conserved site
+      1 IPR030456	Fork head domain conserved site 2
+      1 IPR030386	GB1/RHD3-type guanine nucleotide-binding (G) domain
+      1 IPR030365	ATP-binding cassette subfamily A member 1
+      1 IPR030320	Plasma membrane calcium-transporting ATPase 1
+      1 IPR030030	Scaffold protein salvador
+      1 IPR029933	Uridine-cytidine kinase-like 1
+      1 IPR029919	Protein flightless-1
+      1 IPR029766	Capping protein, Arp2/3 and myosin-I linker protein 3
+      1 IPR029760	Glutathione peroxidase conserved site
+      1 IPR029704	UPF0428 family
+      1 IPR029650	NADPH oxidase 1
+      1 IPR029600	Intraflagellar transport protein 81
+      1 IPR029473	Cell morphogenesis central region
+      1 IPR029446	Coatomer beta subunit, appendage platform domain
+      1 IPR029318	Beclin-1, BH3 domain
+      1 IPR029052	Metallo-dependent phosphatase-like
+      1 IPR029045	ClpP/crotonase-like domain superfamily
+      1 IPR029035	DHS-like NAD/FAD-binding domain superfamily
+      1 IPR028920	Tox-ART-HYD1 domain
+      1 IPR028895	Cyclin-G2
+      1 IPR028889	Ubiquitin specific protease domain
+      1 IPR028816	Caprin
+      1 IPR028741	Serine/threonine-protein kinase LATS1
+      1 IPR028689	Synaptotagmin-5
+      1 IPR028587	Adenylate kinase 2
+      1 IPR028570	Rho GDP/GTP exchange factor Kalirin/TRIO
+      1 IPR028427	Peptide methionine sulfoxide reductase
+      1 IPR028375	KA1 domain/Ssp2, C-terminal
+      1 IPR028363	DNA-directed RNA polymerase, subunit  RPB6
+      1 IPR028271	RNA guanine-N7 methyltransferase activating subunit
+      1 IPR028064	Transmembrane protein 154
+      1 IPR027936	Ephrin receptor, transmembrane domain
+      1 IPR027873	Protein PAXX
+      1 IPR027799	Replication termination factor 2, RING-finger
+      1 IPR027791	Galactosyltransferase, C-terminal
+      1 IPR027681	I-BAR domain containing protein IRSp53/IRTKS/Pinkbar
+      1 IPR027652	Pre-mRNA-processing-splicing factor 8
+      1 IPR027534	Ribosomal protein L12/P1/P2 family
+      1 IPR027475	Asparaginase/glutaminase, active site 2
+      1 IPR027474	L-asparaginase, N-terminal
+      1 IPR027450	Alpha-ketoglutarate-dependent dioxygenase AlkB-like
+      1 IPR027410	TCP-1-like chaperonin intermediate domain superfamily
+      1 IPR027387	Cytochrome b/b6-like domain superfamily
+      1 IPR027377	Zinc-binding domain
+      1 IPR027359	Voltage-dependent channel domain superfamily
+      1 IPR027357	DHR-2 domain
+      1 IPR027266	GTP-binding protein TrmE/Glycine cleavage system T protein, domain 1
+      1 IPR027159	Nuclear cap-binding protein subunit 1
+      1 IPR027157	Nuclear cap-binding protein subunit 2
+      1 IPR027005	Glycosyltransferase 39-like
+      1 IPR026791	Dedicator of cytokinesis
+      1 IPR026739	AP complex subunit beta
+      1 IPR026720	Cilia- and flagella-associated protein 91
+      1 IPR026669	Arsenite methyltransferase-like
+      1 IPR026300	CWF11 family
+      1 IPR026169	Mitochondria-eating protein
+      1 IPR026111	Actin-binding Rho-activating protein
+      1 IPR026088	Niban-like
+      1 IPR026055	Fatty acyl-CoA reductase
+      1 IPR025995	RNA binding activity-knot of a chromodomain
+      1 IPR025852	Ataxin 2, SM domain
+      1 IPR025829	Zinc knuckle CX2CX3GHX4C
+      1 IPR025755	60S ribosomal protein L4, C-terminal domain
+      1 IPR025663	A-kinase anchor protein 28kDa
+      1 IPR025607	Ribosomal protein L5 eukaryotic/L18 archaeal, C-terminal
+      1 IPR025483	Lipase, eukaryotic
+      1 IPR025257	Deubiquitinating enzyme MINDY-3/4, conserved domain
+      1 IPR024969	Rpn11/EIF3F, C-terminal
+      1 IPR024964	CTLH/CRA C-terminal to LisH motif domain
+      1 IPR024945	Spt5 C-terminal domain
+      1 IPR024936	Cyclophilin-type peptidyl-prolyl cis-trans isomerase
+      1 IPR024909	Cysteinyl-tRNA synthetase/mycothiol ligase
+      1 IPR024607	Sulfatase, conserved site
+      1 IPR024372	Proteasome component Ecm29
+      1 IPR024317	Dynein heavy chain, AAA module D4
+      1 IPR024137	Histone deacetylase complex subunit SAP130
+      1 IPR024111	Peroxisomal targeting signal 1 receptor family
+      1 IPR024034	ATPase, F1/V1 complex, beta/alpha subunit, C-terminal
+      1 IPR023801	Histone deacetylase domain
+      1 IPR023754	Heme A synthase, type 2
+      1 IPR023696	Ureohydrolase domain superfamily
+      1 IPR023578	Ras guanine nucleotide exchange factor domain superfamily
+      1 IPR023561	Carbonic anhydrase, alpha-class
+      1 IPR023530	Cytochrome b6, PetB
+      1 IPR023346	Lysozyme-like domain superfamily
+      1 IPR023329	Chlorophyll a/b binding domain superfamily
+      1 IPR023302	Peptidase S9A, N-terminal domain
+      1 IPR023299	P-type ATPase, cytoplasmic domain N
+      1 IPR023298	P-type ATPase, transmembrane domain superfamily
+      1 IPR023210	NADP-dependent oxidoreductase domain
+      1 IPR023184	Ubiquinol-cytochrome C reductase hinge domain
+      1 IPR023152	Ras GTPase-activating protein, conserved site
+      1 IPR022878	V-type ATP synthase catalytic alpha chain
+      1 IPR022812	Dynamin superfamily
+      1 IPR022796	Chlorophyll A-B binding protein
+      1 IPR022353	Insulin, conserved site
+      1 IPR022284	Glycerol-3-phosphate O-acyltransferase/Dihydroxyacetone phosphate acyltransferase
+      1 IPR022075	Symplekin  C-terminal
+      1 IPR021987	SLED domain
+      1 IPR021183	N-terminal acetyltransferase A, auxiliary subunit
+      1 IPR021040	LRRC8, pannexin-like TM region
+      1 IPR020892	Cyclophilin-type peptidyl-prolyl cis-trans isomerase, conserved site
+      1 IPR020846	Major facilitator superfamily domain
+      1 IPR020708	DNA-directed RNA polymerase, 14-18kDa subunit, conserved site
+      1 IPR020616	Thiolase, N-terminal
+      1 IPR020615	Thiolase, acyl-enzyme intermediate active site
+      1 IPR020550	Inositol monophosphatase, conserved site
+      1 IPR020003	ATPase, alpha/beta subunit, nucleotide-binding domain, active site
+      1 IPR019985	Ribosomal protein L23
+      1 IPR019821	Kinesin motor domain, conserved site
+      1 IPR019809	Histone H4, conserved site
+      1 IPR019786	Zinc finger, PHD-type, conserved site
+      1 IPR019741	Galactokinase, conserved site
+      1 IPR019581	Pre-mRNA-processing-splicing factor 8, U5-snRNA-binding
+      1 IPR019580	Pre-mRNA-processing-splicing factor 8, U6-snRNA-binding
+      1 IPR019561	Translocon Sec61/SecY, plug domain
+      1 IPR019539	Galactokinase, N-terminal  domain
+      1 IPR019474	Ubiquitin conjugation factor E4, core
+      1 IPR019355	Cell cycle regulator Mat89Bb
+      1 IPR019348	Uncharacterised domain KLRAQ/TTKRSYEDQ, C-terminal
+      1 IPR019087	Mediator of RNA polymerase II transcription subunit 15
+      1 IPR018978	Ribosome maturation protein SBDS, C-terminal
+      1 IPR018799	TRAF3-interacting protein 1
+      1 IPR018499	Tetraspanin/Peripherin
+      1 IPR018369	Chaperonin GroES, conserved site
+      1 IPR018338	Carbonic anhydrase, alpha-class, conserved site
+      1 IPR018321	Glucosamine-6-phosphate isomerase, conserved site
+      1 IPR018303	P-type ATPase, phosphorylation site
+      1 IPR018253	DnaJ domain, conserved site
+      1 IPR018159	Spectrin/alpha-actinin
+      1 IPR017853	Glycoside hydrolase superfamily
+      1 IPR017233	WD repeat protein 35
+      1 IPR017131	Small ribonucleoprotein associated, SmB/SmN
+      1 IPR017106	Coatomer gamma subunit
+      1 IPR016460	Coatomer beta subunit (COPB1)
+      1 IPR016439	Sphingosine N-acyltransferase Lag1/Lac1-like
+      1 IPR016197	Chromo-like domain superfamily
+      1 IPR016174	Di-haem cytochrome, transmembrane
+      1 IPR016162	Aldehyde dehydrogenase, N-terminal
+      1 IPR016161	Aldehyde/histidinol dehydrogenase
+      1 IPR016159	Cullin repeat-like-containing domain superfamily
+      1 IPR016157	Cullin, conserved site
+      1 IPR016129	Peptidase family C14A, His active site
+      1 IPR016073	SKP1 component, POZ domain
+      1 IPR016064	NAD kinase/diacylglycerol kinase-like domain superfamily
+      1 IPR015940	Ubiquitin-associated domain
+      1 IPR015767	Rho GTPase activating protein 27
+      1 IPR015712	DNA-directed RNA polymerase, subunit 2
+      1 IPR015655	Protein phosphatase 2C family
+      1 IPR015526	Frizzled/secreted frizzled-related protein
+      1 IPR015506	Dishevelled-related protein
+      1 IPR015505	Coronin
+      1 IPR015482	Syntrophin
+      1 IPR015353	Rubisco LSMT, substrate-binding domain
+      1 IPR015255	Vitellinogen, open beta-sheet
+      1 IPR015174	MIF4G-like, type 2
+      1 IPR015016	Splicing factor 3B subunit 1
+      1 IPR015009	Vinculin-binding site-containing domain
+      1 IPR014784	Copper type II, ascorbate-dependent monooxygenase-like, C-terminal
+      1 IPR014782	Peptidase M1, membrane alanine aminopeptidase
+      1 IPR014756	Immunoglobulin E-set
+      1 IPR014717	Translation elongation factor EF1B/ribosomal protein S6
+      1 IPR014352	FERM/acyl-CoA-binding protein superfamily
+      1 IPR014049	Glutathione synthase, N-terminal, eukaryotic
+      1 IPR014042	Glutathione synthase, alpha-helical
+      1 IPR014010	REJ domain
+      1 IPR013957	U4/U6.U5 small nuclear ribonucleoprotein 27kDa protein
+      1 IPR013947	Mediator complex, subunit Med14
+      1 IPR013830	SGNH hydrolase-type esterase domain
+      1 IPR013762	Integrase-like, catalytic domain superfamily
+      1 IPR013713	Exportin-2, central domain
+      1 IPR013606	IMD/I-BAR domain
+      1 IPR013321	Arc-type ribbon-helix-helix
+      1 IPR013233	Glycosylphosphatidylinositol-mannosyltransferase I, PIG-X/PBN1
+      1 IPR013149	Alcohol dehydrogenase, C-terminal
+      1 IPR013144	CRA domain
+      1 IPR013121	Ferric reductase, NAD binding domain
+      1 IPR013120	Fatty acyl-coenzyme A reductase, NAD-binding domain
+      1 IPR013088	Zinc finger, NHR/GATA-type
+      1 IPR013078	Histidine phosphatase superfamily, clade-1
+      1 IPR013041	Clathrin adaptor, appendage, Ig-like subdomain superfamily
+      1 IPR013040	Coatomer, gamma subunit, appendage, Ig-like subdomain
+      1 IPR013000	Ribosomal protein L4/L1e, eukaryotic/archaeal, conserved site
+      1 IPR012921	Spen paralogue and orthologue SPOC, C-terminal
+      1 IPR012678	Ribosomal protein L23/L15e core domain superfamily
+      1 IPR012293	RNA polymerase subunit, RPB6/omega
+      1 IPR012292	Globin/Protoglobin
+      1 IPR012227	TNF receptor-associated factor TRAF, metazoa
+      1 IPR011765	Peptidase M16, N-terminal
+      1 IPR011761	ATP-grasp fold
+      1 IPR011704	ATPase, dynein-related, AAA domain
+      1 IPR011645	Haem NO binding associated
+      1 IPR011626	Alpha-macroglobulin-like, TED domain
+      1 IPR011057	Mss4-like superfamily
+      1 IPR011047	Quinoprotein alcohol dehydrogenase-like superfamily
+      1 IPR011042	Six-bladed beta-propeller, TolB-like
+      1 IPR011012	Longin-like domain superfamily
+      1 IPR011011	Zinc finger, FYVE/PHD-type
+      1 IPR011010	DNA breaking-rejoining enzyme, catalytic core
+      1 IPR011004	Trimeric LpxA-like superfamily
+      1 IPR010994	RuvA domain 2-like
+      1 IPR010987	Glutathione S-transferase, C-terminal-like
+      1 IPR010912	Spen paralogue/orthologue C-terminal, metazoa
+      1 IPR010703	Dedicator of cytokinesis, C-terminal
+      1 IPR010281	Protein of unknown function DUF885
+      1 IPR009836	Glycine-rich domain-containing protein-like
+      1 IPR009535	Phospholipase C-beta, conserved site
+      1 IPR009533	FAM107
+      1 IPR009110	Nuclear receptor coactivator, interlocking
+      1 IPR009075	Acyl-CoA dehydrogenase/oxidase C-terminal
+      1 IPR009050	Globin-like superfamily
+      1 IPR009028	Coatomer/calthrin adaptor appendage, C-terminal subdomain
+      1 IPR009008	Valyl/Leucyl/Isoleucyl-tRNA synthetase, editing domain
+      1 IPR008967	p53-like transcription factor, DNA-binding
+      1 IPR008962	PapD-like superfamily
+      1 IPR008914	Phosphatidylethanolamine-binding protein
+      1 IPR008775	Phytanoyl-CoA dioxygenase
+      1 IPR008758	Peptidase S28
+      1 IPR008676	MRG
+      1 IPR008493	Domain of unknown function DUF775
+      1 IPR008340	Dishevelled-1
+      1 IPR008266	Tyrosine-protein kinase, active site
+      1 IPR008050	DNA replication licensing factor Mcm7
+      1 IPR007863	Peptidase M16, C-terminal
+      1 IPR007862	Adenylate kinase, active site lid domain
+      1 IPR007365	Transferrin receptor-like, dimerisation domain
+      1 IPR007265	Conserved oligomeric Golgi complex, subunit 3
+      1 IPR007243	Atg6/Beclin
+      1 IPR007207	CCR4-Not complex component, Not N-terminal domain
+      1 IPR007123	Gelsolin-like domain
+      1 IPR007120	DNA-directed RNA polymerase, subunit 2, hybrid-binding domain
+      1 IPR007074	LicD family
+      1 IPR007042	SERRATE/Ars2 , C-terminal
+      1 IPR006933	HAP1, N-terminal
+      1 IPR006735	Replication termination factor 2
+      1 IPR006693	Partial AB-hydrolase lipase domain
+      1 IPR006602	Uncharacterised domain DM10
+      1 IPR006259	Adenylate kinase subfamily
+      1 IPR006222	Aminomethyltransferase, folate-binding domain
+      1 IPR006148	Glucosamine/galactosamine-6-phosphate isomerase
+      1 IPR006133	DNA-directed DNA polymerase, family B, exonuclease domain
+      1 IPR006091	Acyl-CoA oxidase/dehydrogenase, central domain
+      1 IPR006077	Vinculin/alpha-catenin
+      1 IPR006068	Cation-transporting P-type ATPase, C-terminal
+      1 IPR006016	UspA
+      1 IPR005835	Nucleotidyl transferase domain
+      1 IPR005817	Wnt
+      1 IPR005804	Fatty acid desaturase domain
+      1 IPR005650	BlaI transcriptional regulatory family
+      1 IPR005633	Ribosomal protein L23/L25, N-terminal
+      1 IPR005542	PBX
+      1 IPR005517	Translation elongation factor EFG/EF2, domain IV
+      1 IPR005108	HELP
+      1 IPR005097	Saccharopine dehydrogenase, NADP binding domain
+      1 IPR005052	Legume-like lectin
+      1 IPR005046	Protein of unknown function DUF285
+      1 IPR005031	Coenzyme Q-binding protein COQ10, START domain
+      1 IPR004843	Calcineurin-like phosphoesterase domain, ApaH type
+      1 IPR004837	Sodium/calcium exchanger membrane region
+      1 IPR004835	Chitin synthase
+      1 IPR004823	TATA box binding protein associated factor (TAF)
+      1 IPR004302	Cellulose/chitin-binding protein, N-terminal
+      1 IPR004161	Translation elongation factor EFTu-like, domain 2
+      1 IPR004098	Prp18
+      1 IPR004088	K Homology domain, type 1
+      1 IPR004087	K Homology domain
+      1 IPR004046	Glutathione S-transferase, C-terminal
+      1 IPR004018	RPEL repeat
+      1 IPR003960	ATPase, AAA-type, conserved site
+      1 IPR003929	Calcium-activated potassium channel BK, alpha subunit
+      1 IPR003859	Beta-1,4-galactosyltransferase
+      1 IPR003841	Sodium-dependent phosphate transport protein
+      1 IPR003806	ATP-grasp fold, PylC-type
+      1 IPR003780	COX15/CtaA family
+      1 IPR003674	Oligosaccharyl transferase, STT3 subunit
+      1 IPR003593	AAA+ ATPase domain
+      1 IPR003439	ABC transporter-like
+      1 IPR003422	Cytochrome b-c1 complex, subunit 6
+      1 IPR003392	Protein patched/dispatched
+      1 IPR003094	Fructose-2,6-bisphosphatase
+      1 IPR002939	Chaperone DnaJ, C-terminal
+      1 IPR002890	Macroglobulin domain
+      1 IPR002213	UDP-glucuronosyl/UDP-glucosyltransferase
+      1 IPR002136	Ribosomal protein L4/L1e
+      1 IPR002104	Integrase, catalytic domain
+      1 IPR001969	Aspartic peptidase, active site
+      1 IPR001965	Zinc finger, PHD-type
+      1 IPR001898	Solute carrier family 13
+      1 IPR001818	Peptidase M10, metallopeptidase
+      1 IPR001753	Enoyl-CoA hydratase/isomerase
+      1 IPR001711	Phospholipase C, phosphatidylinositol-specific, Y domain
+      1 IPR001451	Hexapeptide repeat
+      1 IPR001412	Aminoacyl-tRNA synthetase, class I, conserved site
+      1 IPR001394	Peptidase C19, ubiquitin carboxyl-terminal hydrolase
+      1 IPR001373	Cullin, N-terminal
+      1 IPR001303	Class II aldolase/adducin N-terminal
+      1 IPR001232	S-phase kinase-associated protein 1-like
+      1 IPR001180	Citron homology (CNH) domain
+      1 IPR001134	Netrin domain
+      1 IPR001130	TatD family
+      1 IPR001093	IMP dehydrogenase/GMP reductase
+      1 IPR001014	Ribosomal protein L23/L25, conserved site
+      1 IPR000917	Sulfatase, N-terminal
+      1 IPR000801	Putative esterase
+      1 IPR000749	ATP:guanido phosphotransferase
+      1 IPR000629	ATP-dependent RNA helicase DEAD-box, conserved site
+      1 IPR000571	Zinc finger, CCCH-type
+      1 IPR000555	JAB1/MPN/MOV34 metalloenzyme domain
+      1 IPR000542	Acyltransferase ChoActase/COT/CPT
+      1 IPR000535	Major sperm protein (MSP) domain
+      1 IPR000479	Cation-independent mannose-6-phosphate receptor repeat
+      1 IPR000477	Reverse transcriptase domain
+      1 IPR000451	NF-kappa-B/Dorsal
+      1 IPR000435	Tektin
+      1 IPR000403	Phosphatidylinositol 3-/4-kinase, catalytic domain
+      1 IPR000375	Dynamin stalk domain
+      1 IPR000357	HEAT repeat
+      1 IPR000333	Ser/Thr protein kinase, TGFB receptor
+      1 IPR000323	Copper type II, ascorbate-dependent monooxygenase, N-terminal
+      1 IPR000312	Glycosyl transferase, family 3
+      1 IPR000215	Serpin family
+      1 IPR000194	ATPase, F1/V1/A1 complex, alpha/beta subunit, nucleotide-binding domain
+      1 IPR000053	Thymidine/pyrimidine-nucleoside phosphorylase

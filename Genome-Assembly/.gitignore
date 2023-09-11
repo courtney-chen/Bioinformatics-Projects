@@ -1,0 +1,17 @@
+*.*
+!*.R
+!*.png
+!*.py
+!*.sh
+!*.Rmd
+!*.md
+!.gitignore
+!*.jpg
+!*.ris
+
+!*.pdf
+!*.gff
+!GenomeAssembly/Rhodo/scaffolds.fasta
+GenomeAssembly/Rhodo/pipeline_state/
+GenomeAssembly/Rhodo/*/simplified_contigs/contigs_info
+sequence
